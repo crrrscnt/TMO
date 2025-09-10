@@ -26,4 +26,36 @@
 
 ## РК 2
 
-Методы построения моделей машинного обучения.
+Ансамбли моделей. Для заданного набора данных (ирисы) постройте модели классификации или регрессии (дерево решений и градиентный бустинг). Оценка моделей по подходящим метрикам.
+
+---
+
+# 7 semester | Machine learning technologies | Laboratory work and line controls.
+
+## LR 1
+
+Exploration data analysis (EDA). Research and visualization of data.
+
+## LR 2
+
+Processing of gaps (misses in data) in data, categorical features, scaling data.
+
+## LR 3
+
+Preparation of training and test sample, cross-val and selection of hyperparameters using the example of kNN.
+
+## LR 4
+
+Linear models, SVM and decision trees.
+
+## LR 5, 6
+
+Ensembles of ML.
+
+## Test 1
+
+EDA and processing technologies.
+
+## Test 2
+
+Ensembles of models. For a given data set (irises), build classification or regression models (decision tree and gradient boosts). Assessment of models by suitable metrics.
